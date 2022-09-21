@@ -1,0 +1,9 @@
+[submodule "Proyecto"]
+    path = Proyecto
+    url = https://github.com/rodrigo-zamora/Libgloss
+[submodule "Tareas/flutter_mcflutter"]
+    path = Tareas/flutter_mcflutter
+    url = https://github.com/rodrigo-zamora/PDM-tarea1
+[submodule "Tareas/tip_time_base"]
+    path = Tareas/tip_time_base
+    url = https://github.com/rodrigo-zamora/PDM-tarea2
