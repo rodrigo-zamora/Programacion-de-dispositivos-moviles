@@ -7,3 +7,6 @@
 [submodule "Tareas/tip_time_base"]
     path = Tareas/tip_time_base
     url = https://github.com/rodrigo-zamora/PDM-tarea2
+[submodule "Prácticas/music_app"]
+    path = Prácticas/music_app
+    url = https://github.com/rodrigo-zamora/PDM-practica1
