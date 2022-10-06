@@ -7,6 +7,9 @@
 [submodule "Tareas/tip_time_base"]
     path = Tareas/tip_time_base
     url = https://github.com/rodrigo-zamora/PDM-tarea2
+[submodule "Tareas/book_repository"]
+    path = Tareas/book_repository
+    url = https://github.com/rodrigo-zamora/PDM-tarea3
 [submodule "Practicas/music_app"]
     path = Practicas/music_app
     url = https://github.com/rodrigo-zamora/PDM-practica1
